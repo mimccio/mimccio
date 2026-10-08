@@ -5,8 +5,7 @@ Front-end web developper
 Self taught web developer I like to create things with good user experience
 
 - 🌍  I'm based in Lyon
-- 🚀  I'm currently working on [Roumple](http://roumple.com)
-- 🧠  I'm learning Algorythms
+- 🚀  I'm currently working on [mica.app](http://mica.app)
 
 ### Skills
 
