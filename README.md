@@ -31,4 +31,4 @@ React · TypeScript · TanStack Query · Tailwind CSS · shadcn/ui
 
 ## Links
 
-[LinkedIn]([TON_URL_LINKEDIN](https://www.linkedin.com/in/mimadev/)
+[LinkedIn](https://www.linkedin.com/in/mimadev)
